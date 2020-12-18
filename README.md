@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm David 👋
 
-<!--
-**idolize/idolize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Software Engineering Manager at 👻 Snap, Inc.
+> Previously: SWE @ Microsoft on Xbox Live, Eng Intern @ Google, Extreme Blue Intern @ IBM, TEC Fellow @ True Ventures
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Snap Kit](https://kit.snapchat.com), [Snap Minis](minis.snapchat.com), and [Snap Games](https://www.snap.com/en-US/news/post/snap-partner-summit-introducing-snap-games)
+- 👥 I’m looking to collaborate on web frameworks, indie games, and iOS apps
+- 🎨 I love to draw and paint in addition to coding
+- 🏍 I'm into motorcycles and dirtbikes
+- 🎓 Education: M.S. Computer Science @ UNC, B.S. Computer Science @ UNC
+- ⚡ Fun fact: I've lived in NC, WA, CA, and am currently in Hawaii!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github.com/idolize/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/idolize/github-stats/blob/master/generated/languages.svg)
