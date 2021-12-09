@@ -8,7 +8,7 @@
 - 🎨 I love to draw and paint in addition to coding
 - 🏍 I'm into motorcycles and dirtbikes
 - 🎓 Education: M.S. Computer Science @ UNC, B.S. Computer Science @ UNC
-- ⚡ Fun fact: I've lived in NC, WA, CA, and am currently in Hawaii!
+- ⚡ Fun fact: I've lived in NC, WA, CA, and Hawaii!
 
 ### Connect With Me
 
