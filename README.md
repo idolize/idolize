@@ -1,6 +1,6 @@
 ### Hi there, I'm David 👋
 
-#### I'm a Software Engineering Manager at 👻 Snap, Inc.
+#### I'm a Tech Lead Manager at 👻 Snap, Inc.
 > Previously: SWE @ Microsoft on Xbox Live, Eng Intern @ Google, Extreme Blue Intern @ IBM, TEC Fellow @ True Ventures
 
 - 🔭 I’m currently working on [Snap Kit](https://kit.snapchat.com), [Snap Minis](https://minis.snapchat.com), and [Snap Games](https://games.snap.com)
