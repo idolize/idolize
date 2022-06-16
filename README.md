@@ -1,7 +1,7 @@
 ### Hi there, I'm David 👋
 
-#### I'm a Tech Lead Manager at 👻 Snap, Inc.
-> Previously: SWE @ Microsoft on Xbox Live, Eng Intern @ Google, Extreme Blue Intern @ IBM, TEC Fellow @ True Ventures
+#### I'm an Engineering Manager at 👻 Snap, Inc.
+> Previously: SWE @ Microsoft on Xbox Live, Eng Intern @ Google, Extreme Blue Intern @ IBM, Fellow @ True Ventures
 
 - 🔭 I’m currently working on [Snap Kit](https://kit.snapchat.com), [Snap Minis](https://minis.snapchat.com), and [Snap Games](https://games.snap.com)
 - 👥 I’m looking to collaborate on web frameworks, indie games, and iOS apps
@@ -27,5 +27,4 @@
 [website]: https://www.daveidol.com
 [twitter]: https://twitter.com/DavidIdolize
 [youtube]: https://youtube.com/DavidIdolDev
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/rdidol
