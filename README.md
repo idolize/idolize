@@ -12,10 +12,10 @@
 
 ### Connect With Me
 
-[<img align="left" alt="daveidol.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="DavidIdolDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="DavidIdolize | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rdidol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="davididol.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="@rdidol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="@DavidIdolDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="@DavidIdolize | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
 ### Stats
@@ -24,7 +24,7 @@
 ![](https://github.com/idolize/github-stats/blob/master/generated/languages.svg)
 
 
-[website]: https://www.daveidol.com
+[website]: https://davididol.com
 [twitter]: https://twitter.com/DavidIdolize
 [youtube]: https://youtube.com/DavidIdolDev
 [linkedin]: https://linkedin.com/in/rdidol
