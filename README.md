@@ -1,9 +1,8 @@
 ### Hi there, I'm David 👋
 
-#### I'm an Engineering Manager at 👻 Snap, Inc.
-> Previously: SWE @ Microsoft on Xbox Live, Eng Intern @ Google, Extreme Blue Intern @ IBM, Fellow @ True Ventures
+#### I'm an Engineering Manager at Discord.
+> Previously: EM @ Snap, Inc., SWE @ Microsoft on Xbox Live, Eng Intern @ Google, Extreme Blue @ IBM, Fellow @ True Ventures
 
-- 🔭 I’m currently working on [Snap Kit](https://kit.snapchat.com), Snap Minis, and Snap Games
 - 👥 I’m looking to collaborate on web frameworks, indie games, and iOS apps
 - 🎨 I love to draw and paint in addition to coding
 - 🏍 I'm into motorcycles and dirtbikes
