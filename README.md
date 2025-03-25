@@ -8,8 +8,3 @@
 - 🏍 I'm into motorcycles and F1
 - 🎓 M.S. Computer Science @UNC, B.S. Computer Science @UNC
 - ⚡ I've lived in NC, WA, CA, and Hawaii!
-
-### Stats
-
-![](https://github.com/idolize/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/idolize/github-stats/blob/master/generated/languages.svg)
